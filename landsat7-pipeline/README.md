@@ -45,4 +45,3 @@ Latitude: –10.0 to –9.0
 
 ## Credits
 
-Built with ❤️ using GDAL, Rasterio, and Docker.
